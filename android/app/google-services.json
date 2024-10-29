@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "46852248339",
+    "project_id": "y2-9-mohamed-hbql",
+    "storage_bucket": "y2-9-mohamed-hbql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46852248339:android:a427f53863af5d456c40e6",
+        "android_client_info": {
+          "package_name": "com.street.mohamed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46852248339-koq5e53ni7n5e15q81guafrv6mibkatk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.street.mohamed",
+            "certificate_hash": "ab2d9f447c57e994bec448588af67b5bb01d0d5f"
+          }
+        },
+        {
+          "client_id": "46852248339-j8ro98i3ssu3386dcgg9jngr68i3dbqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawUQIZF2V9GHCpEsUO2m7F8if0casiHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46852248339-j8ro98i3ssu3386dcgg9jngr68i3dbqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
